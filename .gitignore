@@ -1,0 +1,21 @@
+# 環境変数（絶対にコミットしない）
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
