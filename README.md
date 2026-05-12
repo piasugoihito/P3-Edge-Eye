@@ -102,3 +102,6 @@ python scanner.py
 ```
 
 `CAMERA_INDEX=0` はラズパイカメラモジュール（`/dev/video0`）に対応する。
+
+
+"This project is a clean-room implementation of the P3 protocol, based on the theoretical foundations established on May 8, 2026."
